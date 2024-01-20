@@ -46,7 +46,10 @@ header nav li a:hover{
     margin: 0 auto;
 }
 
-header .container,
+header .container h1{
+    justify-content: center;
+}
+
 section .container{
     display: flex;
     align-items: center;
